@@ -1,0 +1,6 @@
+date,item_name,type,quantity
+2025-07-01,Canned Tomatoes,out,10
+2025-07-02,Canned Tomatoes,in,25
+2025-07-03,Canned Tomatoes,out,5
+2025-07-02,Rice,in,40
+2025-07-03,Rice,out,5
